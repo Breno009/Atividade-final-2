@@ -110,7 +110,8 @@
     margin: 1px;
 }
 #title{
-    font-size: 20px;
+    font-size: 25px;
+	font-family: cursive;
 }
 .animar{
     animation-name: slide;
